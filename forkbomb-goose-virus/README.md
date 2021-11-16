@@ -1,5 +1,5 @@
 # Forkbomb - goose - virus
-
+- tylko pod windowsem -
 ## Sposob działania:
  - należy przekopiować pliki na odpowiednie ścieżki takie jak są zapisane w plik
  - dodać plik fpCSEvtSvc.c do autostartu
